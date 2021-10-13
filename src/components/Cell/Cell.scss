@@ -1,0 +1,46 @@
+$borderRadius: 15px;
+
+.cell {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  border-style: solid;
+  border-width: 1px;
+  border: 1px outset #0a46a4;
+  border-radius: $borderRadius;
+  border-color: black;
+  margin: 1px;
+  & img {
+    height: 100%;
+    border-radius: $borderRadius;
+  }
+  &:hover {
+    cursor: pointer;
+    animation-name: example;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+  }
+}
+
+@keyframes example {
+  0% {
+    left: 0px;
+    top: 2px;
+  }
+  25% {
+    left: 2px;
+    top: 0px;
+  }
+  50% {
+    left: 0px;
+    bottom: 2px;
+  }
+  75% {
+    right: 2px;
+    bottom: 2px;
+  }
+  100% {
+    right: 2px;
+    top: 0px;
+  }
+}
