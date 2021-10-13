@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/My-Island/static/css/main.48d06d9b.chunk.css",
+    "main.js": "/My-Island/static/js/main.468f91f2.chunk.js",
+    "main.js.map": "/My-Island/static/js/main.468f91f2.chunk.js.map",
+    "runtime-main.js": "/My-Island/static/js/runtime-main.5c01166b.js",
+    "runtime-main.js.map": "/My-Island/static/js/runtime-main.5c01166b.js.map",
+    "static/js/2.f2aedfcc.chunk.js": "/My-Island/static/js/2.f2aedfcc.chunk.js",
+    "static/js/2.f2aedfcc.chunk.js.map": "/My-Island/static/js/2.f2aedfcc.chunk.js.map",
+    "static/js/3.b12fd8e2.chunk.js": "/My-Island/static/js/3.b12fd8e2.chunk.js",
+    "static/js/3.b12fd8e2.chunk.js.map": "/My-Island/static/js/3.b12fd8e2.chunk.js.map",
+    "index.html": "/My-Island/index.html",
+    "static/css/main.48d06d9b.chunk.css.map": "/My-Island/static/css/main.48d06d9b.chunk.css.map",
+    "static/js/2.f2aedfcc.chunk.js.LICENSE.txt": "/My-Island/static/js/2.f2aedfcc.chunk.js.LICENSE.txt",
+    "static/media/land.b5895e0a.jpg": "/My-Island/static/media/land.b5895e0a.jpg",
+    "static/media/water.a1ab9f65.jpg": "/My-Island/static/media/water.a1ab9f65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c01166b.js",
+    "static/js/2.f2aedfcc.chunk.js",
+    "static/css/main.48d06d9b.chunk.css",
+    "static/js/main.468f91f2.chunk.js"
+  ]
+}
