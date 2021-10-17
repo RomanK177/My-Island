@@ -39,7 +39,7 @@ function App() {
 
   async function testBackend() {
     await axios
-      .post('http://localhost:5000/', state)
+      .post('https://pacific-inlet-14294.herokuapp.com/', state)
       .then(function (response) {
         console.log('return from backend', response.data);
       })
