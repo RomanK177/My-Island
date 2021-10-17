@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/My-Island/static/css/main.48d06d9b.chunk.css",
-    "main.js": "/My-Island/static/js/main.468f91f2.chunk.js",
-    "main.js.map": "/My-Island/static/js/main.468f91f2.chunk.js.map",
+    "main.js": "/My-Island/static/js/main.5085e9ae.chunk.js",
+    "main.js.map": "/My-Island/static/js/main.5085e9ae.chunk.js.map",
     "runtime-main.js": "/My-Island/static/js/runtime-main.5c01166b.js",
     "runtime-main.js.map": "/My-Island/static/js/runtime-main.5c01166b.js.map",
     "static/js/2.f2aedfcc.chunk.js": "/My-Island/static/js/2.f2aedfcc.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5c01166b.js",
     "static/js/2.f2aedfcc.chunk.js",
     "static/css/main.48d06d9b.chunk.css",
-    "static/js/main.468f91f2.chunk.js"
+    "static/js/main.5085e9ae.chunk.js"
   ]
 }
